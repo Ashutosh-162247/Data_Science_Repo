@@ -1,0 +1,101 @@
+Age,Salary,Department,Experience,Education
+56.0,32695.0,HR,33.0,
+46.0,78190.0,Sales,24.0,Masters
+32.0,35258.0,HR,11.0,Masters
+60.0,117538.0,,8.0,Bachelors
+25.0,69504.0,Marketing,36.0,
+,63159.0,Engineering,38.0,High School
+56.0,43986.0,,,Bachelors
+36.0,91858.0,HR,35.0,Masters
+40.0,42666.0,,25.0,Bachelors
+28.0,68660.0,Engineering,35.0,High School
+28.0,,Sales,25.0,Bachelors
+41.0,56854.0,Engineering,29.0,
+53.0,94505.0,Sales,18.0,Bachelors
+,82251.0,Marketing,18.0,Bachelors
+,,Sales,,High School
+20.0,38392.0,Marketing,35.0,
+39.0,60535.0,Marketing,16.0,Bachelors
+,108603.0,Sales,36.0,Bachelors
+41.0,82256.0,,33.0,Masters
+,119135.0,,,Bachelors
+47.0,,Marketing,33.0,Masters
+,107373.0,Engineering,14.0,PhD
+19.0,109575.0,Sales,21.0,High School
+38.0,,HR,,High School
+50.0,93335.0,Sales,8.0,PhD
+29.0,40965.0,Engineering,7.0,High School
+,54538.0,Engineering,3.0,
+,100592.0,Engineering,17.0,PhD
+42.0,38110.0,Marketing,33.0,PhD
+44.0,109309.0,Marketing,12.0,High School
+59.0,57266.0,Sales,22.0,Masters
+45.0,,Sales,22.0,PhD
+33.0,,HR,,Bachelors
+32.0,,HR,38.0,High School
+64.0,30206.0,Sales,,PhD
+61.0,117054.0,Marketing,8.0,PhD
+20.0,117897.0,Engineering,27.0,Bachelors
+54.0,53419.0,Sales,27.0,Masters
+24.0,80636.0,,,Masters
+38.0,80015.0,,21.0,Masters
+26.0,84268.0,Sales,,PhD
+56.0,117939.0,,,PhD
+35.0,,Marketing,28.0,
+21.0,110356.0,Sales,33.0,High School
+42.0,101910.0,Marketing,5.0,Bachelors
+31.0,86044.0,Engineering,,
+26.0,97214.0,Marketing,4.0,Bachelors
+43.0,,Marketing,35.0,Bachelors
+,85820.0,Marketing,,Masters
+37.0,92623.0,Sales,28.0,High School
+45.0,,Sales,30.0,PhD
+64.0,105450.0,Marketing,29.0,Masters
+24.0,52299.0,Sales,6.0,Masters
+61.0,,HR,35.0,PhD
+,94044.0,,,
+64.0,,Sales,24.0,Masters
+52.0,79080.0,Sales,29.0,Bachelors
+31.0,32693.0,Marketing,31.0,High School
+,99163.0,,35.0,Bachelors
+53.0,55939.0,Sales,33.0,High School
+57.0,78925.0,HR,21.0,Bachelors
+21.0,72941.0,Marketing,32.0,
+19.0,51834.0,Sales,23.0,Masters
+,48047.0,HR,33.0,High School
+59.0,56105.0,HR,3.0,PhD
+21.0,105766.0,Engineering,18.0,
+46.0,45707.0,Marketing,25.0,High School
+35.0,51976.0,Marketing,,Bachelors
+43.0,74262.0,Engineering,,Bachelors
+61.0,,Engineering,24.0,
+51.0,60080.0,,32.0,Masters
+,96842.0,Marketing,22.0,
+53.0,91373.0,Sales,23.0,PhD
+31.0,36776.0,Sales,,Bachelors
+48.0,85016.0,Engineering,27.0,Bachelors
+32.0,39474.0,Sales,,
+,,,26.0,High School
+31.0,51959.0,,17.0,
+40.0,35530.0,Sales,33.0,
+,,HR,,High School
+38.0,43545.0,Engineering,39.0,High School
+,,HR,29.0,PhD
+62.0,64766.0,,26.0,High School
+35.0,103530.0,,35.0,Masters
+64.0,91087.0,Sales,25.0,PhD
+41.0,98840.0,,24.0,
+43.0,,HR,13.0,High School
+,81005.0,,,Bachelors
+62.0,76576.0,Marketing,36.0,High School
+58.0,69353.0,Marketing,20.0,
+,,HR,1.0,Masters
+32.0,113211.0,HR,8.0,
+62.0,82733.0,Marketing,16.0,Bachelors
+18.0,95318.0,,14.0,
+42.0,,,12.0,Masters
+,53664.0,,,High School
+26.0,97172.0,Marketing,,
+,115616.0,Sales,28.0,High School
+18.0,56736.0,Sales,34.0,High School
+61.0,,Engineering,2.0,Bachelors
